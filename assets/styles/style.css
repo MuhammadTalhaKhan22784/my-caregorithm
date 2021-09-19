@@ -787,12 +787,16 @@ p {
     width: 150px;
     height: 150px;
   }
+  .navbar_link {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 1350px) {
   .navbar_wrapper {
     padding: 0 3rem;
   }
+ 
 }
 
 @media (max-width: 1200px) {
